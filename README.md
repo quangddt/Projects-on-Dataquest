@@ -1,6 +1,6 @@
-This repository contains jupyter notebooks that we work on the guided projects from [Dataquest](https://www.dataquest.io). Our programming language of choice is Python.
+This repository contains Jupyter Notebooks that we work on the guided projects from [Dataquest](https://www.dataquest.io).
 
-The project's notebooks and short decriptions of what we learn and practice are:
+Here are the project's notebooks and short decriptions of what we learn and practice:
 
 - [Using Jupyter Notebook: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Using_Jupyter_Notebook/Using_Jupyter.ipynb)Learn how to perform analysis and communicate results with Jupyter notebook
 - [Exploring Gun Deaths in the US: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Exploring_Gun_Deaths_in_the_US/Exploring_Gun_Deaths.ipynb)Use list comprehensions, modules, and the datetime package to find patterns in US gun death data.
