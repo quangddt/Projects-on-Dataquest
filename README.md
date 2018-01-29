@@ -8,6 +8,6 @@ Here are the project's notebooks and short decriptions of what we learn and prac
 - [Analyzing CIA Factbook Data: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Analyzing_CIA_Factbook_Data_Using_SQLite_and_Python/Analyzing_CIA_Factbook.ipynb)Practice the Python SQLite workflow using CIA Factbook data.
 - [Analyzing Movie Reviews: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Analyzing_Movie_Reviews/Fandago_vs_Metacritic.ipynb)Perform statistical analysis on movie review data.
 - [Winning Jeopardy: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Winning_Jeopardy/Winning_Jeopardy.ipynb)Learn how to analyze text while figuring out strategies to win at Jeopardy.
-## Linear Regression For Machine Learning
+# Linear Regression For Machine Learning
 - [Predicting Car Prices: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Predicting_Car_Prices/Predicting_Car_Prices.ipynb) Practice the machine learning workflow using k-nearest neighbors to predict car prices.
 - [Predicting House Sale Prices: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Predicting_House_Sale_Prices/Predicting_House_Sale_Prices.ipynb) Practice building and improving linear regression models
