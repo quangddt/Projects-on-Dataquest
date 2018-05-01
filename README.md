@@ -14,3 +14,4 @@ Here are the project's notebooks and short decriptions of what we learn and prac
 ## Machine Learning
 - [Predicting Car Prices: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Predicting_Car_Prices/Predicting_Car_Prices.ipynb) Practice the machine learning workflow using k-nearest neighbors to predict car prices.
 - [Predicting House Sale Prices: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Predicting_House_Sale_Prices/Predicting_House_Sale_Prices.ipynb) Practice building and improving linear regression models
+- [Predicting Bike Rentals: ](https://github.com/quangddt/Projects-on-Dataquest/blob/master/Predicting_Bike_Rentals/Predicting_Bike_Rentals.ipynb) Use Random Forest to predict the total number of bikes people rented in a given hour.
